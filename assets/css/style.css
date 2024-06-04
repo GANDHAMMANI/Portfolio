@@ -587,7 +587,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     width:100%;
     height: 100%;
     background: #05c1ec;
-    background: -moz-linear-gradient(left, #05c1ec 0%, #05c1ec 100%);
+    background: -moz-linear-gradient(left,  #ec7505 0%,  #ec7505 100%);
     background: -webkit-linear-gradient(left, #05c1ec 0%,#05c1ec 100%);
     background: linear-gradient(to right, #05c1ec 0%,#05c1ec 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#05c1ec', endColorstr='#05c1ec',GradientType=1 );
