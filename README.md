@@ -1,3 +1,7 @@
-![image](https://github.com/user-attachments/assets/54595184-5cba-4df1-8af9-5009bd42aceb)
-![image](https://github.com/user-attachments/assets/64eb4995-91f4-4814-9318-02901f051556)
-![image](https://github.com/user-attachments/assets/ec146802-5bcf-40c1-b0de-de36509f1fcc)
+# My Portfolio
+
+Welcome to my portfolio! Check out my projects, skills, and experience here:
+
+**[Visit My Portfolio]**(https://saketh07.netlify.app/)
+
+Thank you for stopping by!
